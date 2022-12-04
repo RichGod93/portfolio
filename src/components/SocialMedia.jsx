@@ -5,7 +5,7 @@ const SocialMedia = () => {
   return (
     <div className="app__social">
       <div>
-        <a href="https://twitter.com/_riich_god">
+        <a href="https://twitter.com/riichgod_">
           <BsTwitter />
         </a>
       </div>
@@ -15,7 +15,7 @@ const SocialMedia = () => {
         </a>
       </div>
       <div>
-        <a href="https://www.instagram.com/_riich_god/">
+        <a href="https://www.instagram.com/riichgod_/">
           <BsInstagram />
         </a>
       </div>
