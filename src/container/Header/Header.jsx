@@ -60,7 +60,7 @@ const Header = () => {
         whileInView={scaleVariants.whileInView}
         className="app__header-circles"
       >
-        {[images.firebase, images.react, images.node, images.Photoshop].map(
+        {[images.firebase, images.react, images.node, images.git].map(
           (circle, index) => (
             <div className="circle-cmp app__flex" key={`curcke-${index}`}>
               <img src={circle} alt="circle" />
